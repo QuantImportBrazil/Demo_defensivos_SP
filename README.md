@@ -17,9 +17,15 @@
 > A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
 >
 ---  
+ 
+![Gráfico de Previsão](SP_Outros%20herbicidas.png) 
   
   
-![Gráfico de Previsão](3104.png) 
+![Gráfico de Previsão](SP_Outras%20mercadorias%20mencionadas%20na%20Nota%20de%20subposições%202%20do%20presente%20Capítulo,.png) 
+   
+  
+![Gráfico de Previsão](SP_Outros%20inseticidas,.png) 
+  
   
 ---
 
