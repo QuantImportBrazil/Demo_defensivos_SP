@@ -24,7 +24,8 @@
 ![Gráfico de Previsão](SP_Outras%20mercadorias%20mencionadas%20na%20Nota%20de%20subposições%202%20do%20presente%20Capítulo,.png) 
    
   
-![Gráfico de Previsão](SP_Outros%20inseticidas,.png) 
+![Gráfico de Previsão](SP_Outros%20inseticidas,.png)  
+<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
   
 ---
