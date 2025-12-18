@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
@@ -18,13 +18,13 @@
 >
 ---  
  
-![Gráfico de Previsão](SP_Outros%20herbicidas.png) 
+![Gráfico de Previsão](SP_Outros%20herbicidas1.png) 
   
   
-![Gráfico de Previsão](SP_Outras%20mercadorias%20mencionadas%20na%20Nota%20de%20subposições%202%20do%20presente%20Capítulo,.png) 
+![Gráfico de Previsão](SP_Outras%20mercadorias%20mencionadas%20na%20Nota%20de%20subposições%202%20do%20presente%20Capítulo,1.png) 
    
   
-![Gráfico de Previsão](SP_Outros%20inseticidas,.png)  
+![Gráfico de Previsão](SP_Outros%20inseticidas,1.png)  
 <sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
   
