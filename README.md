@@ -26,7 +26,7 @@
 
 # Exemplo de Fatores Influenciadores
 
-![Importância dos Fatores](importância_dos_fatores-herb-SP.png) 
+![Importância dos Fatores](importância_dos_fatores-herb-sp.png) 
 
 ---
 
