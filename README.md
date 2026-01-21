@@ -26,7 +26,7 @@
 
 # Exemplo de Fatores Influenciadores
 
-![Importância dos Fatores]('herb-sp-2.png') 
+![Importância dos Fatores]('herb_sp-2.png') 
 
 ---
 
