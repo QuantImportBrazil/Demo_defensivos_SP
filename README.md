@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport    
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
@@ -6,7 +6,7 @@
 
 # Previsão de Importação - SP
 
-> **Emissão:** 12-2025
+> **Emissão:** 1-2026
 > 
 > A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
 > 
@@ -18,16 +18,16 @@
 >
 ---  
  
-![Gráfico de Previsão](SP_Outros%20herbicidas1.png) 
-  
-  
-![Gráfico de Previsão](SP_Outras%20mercadorias%20mencionadas%20na%20Nota%20de%20subposições%202%20do%20presente%20Capítulo,1.png) 
-   
-  
-![Gráfico de Previsão](SP_Outros%20inseticidas,1.png)  
-<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
-  
-  
+![Gráfico de Previsão](download.png) 
+<sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
+<sub>* IC: Intervalo de Confiança</sub>  
+
+---
+
+# Exemplo de Fatores Influenciadores
+
+![Importância dos Fatores](importância_dos_fatores-herb-SP.png) 
+
 ---
 
 ## Contato
