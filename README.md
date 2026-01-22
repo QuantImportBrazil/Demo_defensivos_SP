@@ -18,7 +18,7 @@
 >
 ---  
  
-![Gráfico de Previsão](download.png) 
+![Gráfico de Previsão](download11.png) 
 <sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
 <sub>* IC: Intervalo de Confiança</sub>  
 
@@ -26,7 +26,7 @@
 
 # Exemplo de Fatores Influenciadores
 
-![Importância dos Fatores](herb_sp_2.png) 
+![Importância dos Fatores](fi11.png) 
 
 ---
 
